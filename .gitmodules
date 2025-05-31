@@ -1,0 +1,6 @@
+[submodule "DCI"]
+	path = DCI
+	url = https://github.com/borodina-E/TEST
+[submodule "Dci"]
+	path = Dci
+	url = https://github.com/borodina-E/DCI
